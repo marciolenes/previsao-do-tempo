@@ -3,6 +3,7 @@
 <br>
 <p float="center">
   <img src="screenshot.do.projeto.png"></img><p>
+  <img src="screenshot.do.projeto2.png"></img>
 </p>
 <br>
 
