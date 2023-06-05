@@ -18,4 +18,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Previsão do Tempo](https://pizzaria-b7web.netlify.app/)
+- [Previsão do Tempo](https://previsao-do-tempo-api.netlify.app/)
